@@ -1,0 +1,25 @@
+Tetris
+
+
+Team members:
+Shailesh Sridhar 01FB16ECS349
+Shailendra Hegde 01FB16ECS348
+Shivam Ganwani   01FB16ECS365
+
+
+Tetris is a popular tile matching puzzle game that mesmerized gamers all over the world in the 1980s. Using python and its pygame module, we have attempted to create a simple playable version of tetris using various datastructures.
+
+Controls(keyboard):
+
+Up - rotate shape anticlockwise
+Down - move shape down a little faster
+Left - move shape one step left
+Right -move shape one step right
+
+
+Data Structures used:
+
+. Circular Linked Lists
+. Python lists
+. Python dictionaries
+.files
