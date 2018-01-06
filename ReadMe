@@ -9,8 +9,7 @@ Shivam Ganwani
 The base code was sourced from here:https://gist.github.com/silvasur/565419 
  all required copyright declarations have been made
 
-Our changes include changing the algorithm for rotation of the shapes to one using a circular linked list, which results in 
-lower time complexity but greater space complexity. We've also included a highscore recording function utilising a textfile for storage..
+Our changes include changing the algorithm for rotation of the shapes to one using a circular linked list, which results in lower time complexity but greater space complexity. We've also included a highscore recording function utilising a textfile for storage..
 
 Controls(keyboard):
 
